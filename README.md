@@ -1,0 +1,1 @@
+This project is regarding fetching summary of paragraph through NLP BERT algorithm
